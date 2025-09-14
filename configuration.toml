@@ -64,5 +64,5 @@ pacman = [
 		"gstreamer1-plugin-openh264"
 ]
 aur = [
-		"vicinae-bin"
+		"vicinae"
 ]
