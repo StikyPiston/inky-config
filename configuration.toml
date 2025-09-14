@@ -45,8 +45,10 @@ pacman = [
 		"kde-connect", 
 		"network-manager-applet", 
 		"fastfetch", 
-		"openh264"
+		"openh264",
+		"papirus-icon-theme"
 ]
 aur = [
-		"vicinae"
+		"vicinae",
+		"neovim-nightly-bin"
 ]
