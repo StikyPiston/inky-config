@@ -1,0 +1,68 @@
+[packages]
+appimage = [
+		"https://github.com/ppy/osu/releases/latest/download/osu.appimage"
+]
+flatpak = [
+		"org.prismlauncher.PrismLauncher", 
+		"one.ablaze.floorp", 
+		"md.obsidian.Obsidian", 
+		"org.kde.audiotube", 
+		"org.gnome.World.Secrets", 
+		"app.zen_browser.zen",
+		"org.kde.kdenlive",
+		"io.missioncenter.MissionCenter",
+		"cc.arduino.IDE2",
+		"it.mijorus.gearlever",
+		"org.libreoffice.LibreOffice",
+		"org.gnome.Rhythmbox3",
+		"org.nickvision.tubeconverter",
+		"de.schmidhuberj.tubefeeder",
+		"de.haeckerfelix.Fragments"
+]
+pacman = [
+		"hyprland", 
+		"hyprpaper", 
+		"hyprlock", 
+		"obs-studio", 
+		"hyprcursor", 
+		"xdg-desktop-portal-hyprland", 
+		"hyprpolkitagent", 
+		"niri", 
+		"waybar", 
+		"wofi", 
+		"swww", 
+		"nemo", 
+		"steam", 
+		"ghostty", 
+		"gnome-tweaks", 
+		"qt5ct", 
+		"nwg-look", 
+		"sassc", 
+		"qt6-qtbase-devel", 
+		"qt6-qtsvg-devel", 
+		"qt6-qtbase-private-devel", 
+		"qt6-qtwayland-devel",
+		"layer-shell-qt-devel", 
+		"libqalculate-devel", 
+		"minizip-devel", 
+		"rapidfuzz-cpp-devel", 
+		"qtkeychain-qt6-devel", 
+		"openssl-devel", 
+		"wayland-devel", 
+		"glibc-static", 
+		"libstdc++-static", 
+		"zlib-devel", 
+		"zlib-static", 
+		"protobuf", 
+		"cmark-gfm", 
+		"bat", 
+		"wlogout", 
+		"kde-connect", 
+		"network-manager-applet", 
+		"fastfetch", 
+		"openh264", 
+		"gstreamer1-plugin-openh264"
+]
+aur = [
+		"vicinae-bin"
+]
