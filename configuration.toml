@@ -46,7 +46,8 @@ pacman = [
 		"network-manager-applet", 
 		"fastfetch", 
 		"openh264",
-		"papirus-icon-theme"
+		"papirus-icon-theme",
+		"fuse2"
 ]
 aur = [
 		"vicinae",
