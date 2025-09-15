@@ -54,5 +54,6 @@ pacman = [
 ]
 aur = [
 		"vicinae",
-		"neovim-nightly-bin"
+		"neovim-nightly-bin",
+		"blockbench-bin"
 ]
