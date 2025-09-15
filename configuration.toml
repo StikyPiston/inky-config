@@ -54,7 +54,7 @@ pacman = [
 		"nwg-displays",
 		"cups",
 		"cups-filters",
-		"cups-browsed".
+		"cups-browsed",
 		"cups-pdf",
 		"gutenprint",
 		"system-config-printer",
