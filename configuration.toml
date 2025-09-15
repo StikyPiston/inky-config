@@ -48,7 +48,9 @@ pacman = [
 		"openh264",
 		"papirus-icon-theme",
 		"fuse2",
-		"tmux"
+		"tmux",
+		"cava",
+		"cmatrix"
 ]
 aur = [
 		"vicinae",
