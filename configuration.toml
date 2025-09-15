@@ -50,7 +50,8 @@ pacman = [
 		"fuse2",
 		"tmux",
 		"cava",
-		"cmatrix"
+		"cmatrix",
+		"nwg-displays"
 ]
 aur = [
 		"vicinae",
