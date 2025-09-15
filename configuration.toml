@@ -51,7 +51,15 @@ pacman = [
 		"tmux",
 		"cava",
 		"cmatrix",
-		"nwg-displays"
+		"nwg-displays",
+		"cups",
+		"cups-filters",
+		"cups-browsed".
+		"cups-pdf",
+		"gutenprint",
+		"system-config-printer",
+		"foomatic-db-engine",
+		"foomatic-db-ppds"
 ]
 aur = [
 		"vicinae",
