@@ -59,7 +59,8 @@ pacman = [
 		"gutenprint",
 		"system-config-printer",
 		"foomatic-db-engine",
-		"foomatic-db-ppds"
+		"foomatic-db-ppds",
+		"cosmic"
 ]
 aur = [
 		"vicinae",
