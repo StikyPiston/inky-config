@@ -67,5 +67,6 @@ aur = [
 		"neovim-nightly-bin",
 		"blockbench-bin",
 		"waydroid",
-		"lf-git"
+		"lf-git",
+		"pipes.sh"
 ]
