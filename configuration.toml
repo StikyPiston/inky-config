@@ -60,7 +60,8 @@ pacman = [
 		"system-config-printer",
 		"foomatic-db-engine",
 		"foomatic-db-ppds",
-		"cosmic"
+		"cosmic",
+		"lf"
 ]
 aur = [
 		"vicinae",
