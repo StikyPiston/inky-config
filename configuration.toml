@@ -60,12 +60,12 @@ pacman = [
 		"system-config-printer",
 		"foomatic-db-engine",
 		"foomatic-db-ppds",
-		"cosmic",
-		"lf"
+		"cosmic"
 ]
 aur = [
 		"vicinae",
 		"neovim-nightly-bin",
 		"blockbench-bin",
-		"waydroid"
+		"waydroid",
+		"lf-git"
 ]
