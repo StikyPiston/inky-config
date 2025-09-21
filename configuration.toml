@@ -14,7 +14,6 @@ flatpak = [
 		"cc.arduino.IDE2",
 		"it.mijorus.gearlever",
 		"org.libreoffice.LibreOffice",
-		"org.gnome.Rhythmbox3",
 		"org.nickvision.tubeconverter",
 		"de.schmidhuberj.tubefeeder",
 		"de.haeckerfelix.Fragments"
@@ -61,7 +60,8 @@ pacman = [
 		"foomatic-db-engine",
 		"foomatic-db-ppds",
 		"cosmic",
-		"dunst"
+		"dunst",
+		"rhythmbox"
 ]
 aur = [
 		"vicinae",
