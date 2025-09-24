@@ -61,7 +61,6 @@ pacman = [
 		"rhythmbox",
 		"eza",
 		"lightdm-slick-greeter",
-		"lightdm-settings"
 ]
 aur = [
 		"vicinae",
