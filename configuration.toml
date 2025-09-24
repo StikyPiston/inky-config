@@ -33,7 +33,6 @@ pacman = [
 		"nemo", 
 		"steam", 
 		"ghostty", 
-		"gnome-tweaks", 
 		"qt5ct", 
 		"nwg-look", 
 		"sassc",  
@@ -41,7 +40,6 @@ pacman = [
 		"cmark-gfm", 
 		"bat", 
 		"wlogout", 
-		"kde-connect", 
 		"network-manager-applet", 
 		"fastfetch", 
 		"openh264",
@@ -59,7 +57,6 @@ pacman = [
 		"system-config-printer",
 		"foomatic-db-engine",
 		"foomatic-db-ppds",
-		"cosmic",
 		"dunst",
 		"rhythmbox"
 ]
