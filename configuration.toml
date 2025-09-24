@@ -59,7 +59,9 @@ pacman = [
 		"foomatic-db-ppds",
 		"dunst",
 		"rhythmbox",
-		"eza"
+		"eza",
+		"lightdm-slick-greeter",
+		"lightdm-settings"
 ]
 aur = [
 		"vicinae",
