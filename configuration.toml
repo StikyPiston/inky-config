@@ -58,7 +58,8 @@ pacman = [
 		"foomatic-db-engine",
 		"foomatic-db-ppds",
 		"dunst",
-		"rhythmbox"
+		"rhythmbox",
+		"eza"
 ]
 aur = [
 		"vicinae",
