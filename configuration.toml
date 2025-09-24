@@ -42,7 +42,6 @@ pacman = [
 		"protobuf", 
 		"cmark-gfm", 
 		"bat", 
-		"wlogout", 
 		"network-manager-applet", 
 		"fastfetch", 
 		"openh264",
@@ -70,5 +69,6 @@ aur = [
 		"blockbench-bin",
 		"waydroid",
 		"lf-git",
-		"pipes.sh"
+		"pipes.sh",
+		"wlogout"
 ]
