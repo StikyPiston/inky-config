@@ -60,7 +60,6 @@ pacman = [
 		"dunst",
 		"rhythmbox",
 		"eza",
-		"lightdm-slick-greeter",
 ]
 aur = [
 		"vicinae",
