@@ -16,7 +16,10 @@ flatpak = [
 		"org.libreoffice.LibreOffice",
 		"org.nickvision.tubeconverter",
 		"de.schmidhuberj.tubefeeder",
-		"de.haeckerfelix.Fragments"
+		"de.haeckerfelix.Fragments",
+		"org.cockpit_project.CockpitClient",
+		"org.gnome.World.PikaBackup",
+		"com.github.iwalton3.jellyfin-media-player"
 ]
 pacman = [
 		"hyprland", 
