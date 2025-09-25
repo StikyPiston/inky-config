@@ -79,5 +79,6 @@ aur = [
 		"pipes.sh",
 		"wlogout",
 		"makemkv",
-		"waybar-updates"
+		"waybar-updates",
+		"downgrade"
 ]
