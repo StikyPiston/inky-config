@@ -20,6 +20,7 @@ flatpak = [
 		"org.cockpit_project.CockpitClient",
 		"org.gnome.World.PikaBackup",
 		"com.github.iwalton3.jellyfin-media-player"
+		"org.videolan.VLC"
 ]
 pacman = [
 		"hyprland", 
@@ -76,5 +77,4 @@ aur = [
 		"pipes.sh",
 		"wlogout",
 		"makemkv",
-		"vlc-git"
 ]
