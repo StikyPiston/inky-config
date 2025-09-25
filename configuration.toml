@@ -64,7 +64,8 @@ pacman = [
 		"eza",
 		"plymouth",
 		"handbrake",
-		"handbrake-cli"
+		"handbrake-cli",
+		"libdvdcss"
 ]
 aur = [
 		"vicinae",
