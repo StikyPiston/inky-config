@@ -62,7 +62,9 @@ pacman = [
 		"dunst",
 		"rhythmbox",
 		"eza",
-		"plymouth"
+		"plymouth",
+		"handbrake",
+		"handbrake-cli"
 ]
 aur = [
 		"vicinae",
