@@ -67,6 +67,7 @@ pacman = [
 		"handbrake",
 		"handbrake-cli",
 		"libdvdcss",
+		"rclone"
 ]
 aur = [
 		"vicinae",
