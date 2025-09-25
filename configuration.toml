@@ -71,5 +71,6 @@ aur = [
 		"waydroid",
 		"lf-git",
 		"pipes.sh",
-		"wlogout"
+		"wlogout",
+		"makemkv"
 ]
