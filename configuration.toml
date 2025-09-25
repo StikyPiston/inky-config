@@ -19,7 +19,7 @@ flatpak = [
 		"de.haeckerfelix.Fragments",
 		"org.cockpit_project.CockpitClient",
 		"org.gnome.World.PikaBackup",
-		"com.github.iwalton3.jellyfin-media-player"
+		"com.github.iwalton3.jellyfin-media-player",
 		"org.videolan.VLC"
 ]
 pacman = [
