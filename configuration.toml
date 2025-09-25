@@ -65,7 +65,8 @@ pacman = [
 		"plymouth",
 		"handbrake",
 		"handbrake-cli",
-		"libdvdcss"
+		"libdvdcss",
+		"vlc"
 ]
 aur = [
 		"vicinae",
