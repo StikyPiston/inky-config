@@ -80,5 +80,6 @@ aur = [
 		"wlogout",
 		"makemkv",
 		"waybar-updates",
-		"downgrade"
+		"downgrade",
+		"pix"
 ]
