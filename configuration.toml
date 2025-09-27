@@ -20,7 +20,8 @@ flatpak = [
 		"org.cockpit_project.CockpitClient",
 		"org.gnome.World.PikaBackup",
 		"com.github.iwalton3.jellyfin-media-player",
-		"org.videolan.VLC"
+		"org.videolan.VLC",
+		"org.unicornsonlsd.finamp"
 ]
 pacman = [
 		"hyprland", 
