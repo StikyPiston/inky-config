@@ -21,7 +21,7 @@ flatpak = [
 		"org.gnome.World.PikaBackup",
 		"com.github.iwalton3.jellyfin-media-player",
 		"org.videolan.VLC",
-		"org.unicornsonlsd.finamp"
+		"com.unicornsonlsd.finamp"
 ]
 pacman = [
 		"hyprland", 
