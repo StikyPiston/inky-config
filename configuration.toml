@@ -24,7 +24,7 @@ flatpak = [
 		"com.unicornsonlsd.finamp",
 		"org.freedesktop.Platform.ffmpeg-full",
 		"org.freedesktop.Platform.VulkanLayer.MangoHud",
-		"com.github.tchx84.flatseal"
+		"com.github.tchx84.Flatseal"
 ]
 pacman = [
 		"hyprland", 
