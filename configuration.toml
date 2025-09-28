@@ -86,5 +86,8 @@ aur = [
 		"waybar-updates",
 		"downgrade",
 		"pix",
-		"mangohud"
+		"mangohud",
+		"nintendo-udev",
+		"hid-nintendo-nso-dkms",
+		"joycond-git"
 ]
