@@ -23,7 +23,8 @@ flatpak = [
 		"org.videolan.VLC",
 		"com.unicornsonlsd.finamp",
 		"org.freedesktop.Platform.ffmpeg-full",
-		"org.freedesktop.Platform.VulkanLayer.MangoHud"
+		"org.freedesktop.Platform.VulkanLayer.MangoHud",
+		"com.github.tchx84.flatseal"
 ]
 pacman = [
 		"hyprland", 
