@@ -71,7 +71,8 @@ pacman = [
 		"handbrake-cli",
 		"libdvdcss",
 		"rclone",
-		"swaync"
+		"swaync",
+		"supertuxkart"
 ]
 aur = [
 		"vicinae",
