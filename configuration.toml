@@ -22,7 +22,8 @@ flatpak = [
 		"com.github.iwalton3.jellyfin-media-player",
 		"org.videolan.VLC",
 		"com.unicornsonlsd.finamp",
-		"org.freedesktop.Platform.ffmpeg-full"
+		"org.freedesktop.Platform.ffmpeg-full",
+		"org.freedesktop.Platform.VulkanLayer.MangoHud"
 ]
 pacman = [
 		"hyprland", 
@@ -83,5 +84,6 @@ aur = [
 		"makemkv",
 		"waybar-updates",
 		"downgrade",
-		"pix"
+		"pix",
+		"mangohud"
 ]
