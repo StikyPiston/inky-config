@@ -75,7 +75,10 @@ pacman = [
 		"swaync",
 		"supertuxkart",
 		"bluez",
-		"blueman"
+		"blueman",
+		"libvirt",
+		"qemu",
+		"virt-manager"
 ]
 aur = [
 		"vicinae",
