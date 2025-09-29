@@ -73,7 +73,9 @@ pacman = [
 		"libdvdcss",
 		"rclone",
 		"swaync",
-		"supertuxkart"
+		"supertuxkart",
+		"bluez",
+		"blueman"
 ]
 aur = [
 		"vicinae",
