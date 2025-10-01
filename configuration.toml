@@ -78,7 +78,8 @@ pacman = [
 		"blueman",
 		"libvirt",
 		"qemu",
-		"virt-manager"
+		"virt-manager",
+		"cbonsai"
 ]
 aur = [
 		"vicinae",
