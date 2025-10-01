@@ -79,7 +79,6 @@ pacman = [
 		"libvirt",
 		"qemu",
 		"virt-manager",
-		"cbonsai"
 ]
 aur = [
 		"vicinae",
@@ -96,5 +95,6 @@ aur = [
 		"mangohud",
 		"nintendo-udev",
 		"hid-nintendo-nso-dkms",
-		"joycond-git"
+		"joycond-git",
+		"cbonsai"
 ]
