@@ -81,6 +81,11 @@ pacman = [
 		"virt-manager",
 		"go",
 		"fuzzel",
+		"nemo-share",
+		"nemo-preview",
+		"nemo-emblems",
+		"nemo-audio-tab",
+		"nemo-fileroller"
 ]
 aur = [
 		"vicinae-bin",
