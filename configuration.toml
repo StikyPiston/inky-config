@@ -85,7 +85,9 @@ pacman = [
 		"nemo-preview",
 		"nemo-emblems",
 		"nemo-audio-tab",
-		"nemo-fileroller"
+		"nemo-fileroller",
+		"python3",
+		"uv"
 ]
 aur = [
 		"vicinae-bin",
