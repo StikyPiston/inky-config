@@ -82,7 +82,7 @@ pacman = [
 		"go"
 ]
 aur = [
-		"vicinae",
+		"vicinae-bin",
 		"neovim-nightly-bin",
 		"blockbench-bin",
 		"waydroid",
