@@ -106,5 +106,6 @@ aur = [
 		"hid-nintendo-nso-dkms",
 		"joycond-git",
 		"cbonsai",
-		"tofi"
+		"tofi",
+		"vscodium-bin"
 ]
