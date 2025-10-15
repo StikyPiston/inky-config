@@ -79,7 +79,8 @@ pacman = [
 		"libvirt",
 		"qemu",
 		"virt-manager",
-		"go"
+		"go",
+		"fuzzel"
 ]
 aur = [
 		"vicinae-bin",
