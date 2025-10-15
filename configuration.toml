@@ -80,7 +80,8 @@ pacman = [
 		"qemu",
 		"virt-manager",
 		"go",
-		"fuzzel"
+		"fuzzel",
+		"tofi"
 ]
 aur = [
 		"vicinae-bin",
