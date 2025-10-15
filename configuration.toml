@@ -81,7 +81,6 @@ pacman = [
 		"virt-manager",
 		"go",
 		"fuzzel",
-		"tofi"
 ]
 aur = [
 		"vicinae-bin",
@@ -99,5 +98,6 @@ aur = [
 		"nintendo-udev",
 		"hid-nintendo-nso-dkms",
 		"joycond-git",
-		"cbonsai"
+		"cbonsai",
+		"tofi"
 ]
