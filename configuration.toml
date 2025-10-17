@@ -89,7 +89,8 @@ pacman = [
 		"python3",
 		"uv",
 		"espeak-ng",
-		"speech-dispatcher"
+		"speech-dispatcher",
+		"audacity"
 ]
 aur = [
 		"vicinae-bin",
