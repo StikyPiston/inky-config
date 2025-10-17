@@ -87,7 +87,9 @@ pacman = [
 		"nemo-audio-tab",
 		"nemo-fileroller",
 		"python3",
-		"uv"
+		"uv",
+		"espeak-ng",
+		"speech-dispatcher"
 ]
 aur = [
 		"vicinae-bin",
