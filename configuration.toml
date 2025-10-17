@@ -90,7 +90,8 @@ pacman = [
 		"uv",
 		"espeak-ng",
 		"speech-dispatcher",
-		"audacity"
+		"audacity",
+		"pavucontrol"
 ]
 aur = [
 		"vicinae-bin",
