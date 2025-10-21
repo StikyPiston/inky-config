@@ -91,7 +91,8 @@ pacman = [
 		"espeak-ng",
 		"speech-dispatcher",
 		"audacity",
-		"pavucontrol"
+		"pavucontrol",
+		"teeworlds"
 ]
 aur = [
 		"vicinae-bin",
