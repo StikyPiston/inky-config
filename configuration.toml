@@ -113,5 +113,7 @@ aur = [
 		"cbonsai",
 		"tofi",
 		"vscodium-bin",
-		"squeezelite"
+		"squeezelite",
+		"highscore-git",
+		"gnome-games-meta"
 ]
