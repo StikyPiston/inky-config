@@ -2,6 +2,10 @@
 appimage = [
 		"https://github.com/ppy/osu/releases/latest/download/osu.appimage"
 ]
+brew = [
+		"rancher",
+		"constitution"
+]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
 		"one.ablaze.floorp", 
