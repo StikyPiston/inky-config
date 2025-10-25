@@ -4,7 +4,9 @@ appimage = [
 ]
 brew = [
 		"rancher",
-		"constitution"
+		"constitution",
+		"soft-serve",
+		"gum"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
