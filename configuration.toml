@@ -122,5 +122,6 @@ aur = [
 		"vscodium-bin",
 		"squeezelite",
 		"highscore-git",
-		"gnome-games-meta"
+		"gnome-games-meta",
+		"lutgen-git"
 ]
