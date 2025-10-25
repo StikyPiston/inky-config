@@ -6,7 +6,8 @@ brew = [
 		"rancher",
 		"constitution",
 		"soft-serve",
-		"gum"
+		"gum",
+		"hocusfocus"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
