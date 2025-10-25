@@ -98,7 +98,8 @@ pacman = [
 		"pavucontrol",
 		"teeworlds",
 		"grim",
-		"slurp"
+		"slurp",
+		"less"
 ]
 aur = [
 		"vicinae-bin",
