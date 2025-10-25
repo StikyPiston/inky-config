@@ -8,7 +8,8 @@ brew = [
 		"soft-serve",
 		"gum",
 		"hocusfocus",
-		"evoke"
+		"evoke",
+		"zoxide"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
