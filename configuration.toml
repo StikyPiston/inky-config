@@ -130,5 +130,6 @@ aur = [
 		"squeezelite",
 		"highscore-git",
 		"gnome-games-meta",
-		"lutgen-bin"
+		"lutgen-bin",
+		"communique"
 ]
