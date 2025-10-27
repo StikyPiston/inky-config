@@ -10,7 +10,8 @@ brew = [
 		"hocusfocus",
 		"evoke",
 		"zoxide",
-		"viu"
+		"viu",
+		"feh"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
