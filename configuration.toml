@@ -11,7 +11,8 @@ brew = [
 		"evoke",
 		"zoxide",
 		"viu",
-		"feh"
+		"feh",
+		"yt-dlp"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
