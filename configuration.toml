@@ -135,5 +135,6 @@ aur = [
 		"highscore-git",
 		"gnome-games-meta",
 		"lutgen-bin",
-		"communique"
+		"communique",
+		"hyprland-git"
 ]
