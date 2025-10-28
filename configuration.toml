@@ -106,7 +106,11 @@ pacman = [
 		"less",
 		"man",
 		"vlc",
-		"figlet"
+		"figlet",
+		"hyprland",
+		"hyprlock",
+		"hyprpaper",
+		"hyprcursor"
 ]
 aur = [
 		"vicinae-bin",
@@ -132,8 +136,4 @@ aur = [
 		"gnome-games-meta",
 		"lutgen-bin",
 		"communique",
-		"hyprland-git",
-		"hyprpaper-git",
-		"hyprlock-git",
-		"hyprpaper-git"
 ]
