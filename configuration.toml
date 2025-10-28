@@ -107,7 +107,9 @@ pacman = [
 		"teeworlds",
 		"grim",
 		"slurp",
-		"less"
+		"less",
+		"man",
+		"vlc"
 ]
 aur = [
 		"vicinae-bin",
