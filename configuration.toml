@@ -39,11 +39,7 @@ flatpak = [
 		"com.github.tchx84.Flatseal"
 ]
 pacman = [
-		"hyprland", 
-		"hyprpaper", 
-		"hyprlock", 
 		"obs-studio", 
-		"hyprcursor", 
 		"xdg-desktop-portal-hyprland", 
 		"hyprpolkitagent", 
 		"niri", 
@@ -136,5 +132,8 @@ aur = [
 		"gnome-games-meta",
 		"lutgen-bin",
 		"communique",
-		"hyprland-git"
+		"hyprland-git",
+		"hyprpaper-git",
+		"hyprlock-git",
+		"hyprpaper-git"
 ]
