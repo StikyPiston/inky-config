@@ -12,7 +12,11 @@ brew = [
 		"zoxide",
 		"viu",
 		"feh",
-		"yt-dlp"
+		"yt-dlp",
+		"vhs",
+		"glow",
+		"freeze",
+		"aerc"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
@@ -112,7 +116,8 @@ pacman = [
 		"hyprpaper",
 		"hyprcursor",
 		"hyprlauncher",
-		"loupe"
+		"loupe",
+		"ncdu",
 ]
 aur = [
 		"vicinae-bin",
