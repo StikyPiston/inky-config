@@ -15,7 +15,6 @@ brew = [
 		"yt-dlp",
 		"vhs",
 		"glow",
-		"freeze",
 		"aerc"
 ]
 flatpak = [
