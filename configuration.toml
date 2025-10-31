@@ -111,7 +111,8 @@ pacman = [
 		"hyprlock",
 		"hyprpaper",
 		"hyprcursor",
-		"hyprlauncher"
+		"hyprlauncher",
+		"loupe"
 ]
 aur = [
 		"vicinae-bin",
