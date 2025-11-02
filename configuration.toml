@@ -118,6 +118,7 @@ pacman = [
 		"hyprlauncher",
 		"loupe",
 		"ncdu",
+		"kdeconnect"
 ]
 aur = [
 		"vicinae-bin",
