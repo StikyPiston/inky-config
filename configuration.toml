@@ -41,7 +41,8 @@ flatpak = [
 		"org.freedesktop.Platform.ffmpeg-full",
 		"org.freedesktop.Platform.VulkanLayer.MangoHud",
 		"com.github.tchx84.Flatseal",
-		"com.belmoussaoui.Authenticator"
+		"com.belmoussaoui.Authenticator",
+		"com.mardojai.ForgeSparks"
 ]
 pacman = [
 		"obs-studio", 
