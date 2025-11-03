@@ -120,7 +120,8 @@ pacman = [
 		"hyprlauncher",
 		"loupe",
 		"ncdu",
-		"kdeconnect"
+		"kdeconnect",
+		"ladybird-git"
 ]
 aur = [
 		"vicinae-bin",
@@ -146,5 +147,4 @@ aur = [
 		"gnome-games-meta",
 		"lutgen-bin",
 		"communique",
-		"ladybird-git"
 ]
