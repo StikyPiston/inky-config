@@ -42,7 +42,8 @@ flatpak = [
 		"org.freedesktop.Platform.VulkanLayer.MangoHud",
 		"com.github.tchx84.Flatseal",
 		"com.belmoussaoui.Authenticator",
-		"com.mardojai.ForgeSparks"
+		"com.mardojai.ForgeSparks",
+		"com.modrinth.ModrinthApp"
 ]
 pacman = [
 		"obs-studio", 
