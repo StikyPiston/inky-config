@@ -16,7 +16,8 @@ brew = [
 		"vhs",
 		"glow",
 		"charmbracelet/tap/freeze",
-		"aerc"
+		"aerc",
+		"yazi"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
