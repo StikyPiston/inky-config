@@ -123,7 +123,8 @@ pacman = [
 		"loupe",
 		"ncdu",
 		"kdeconnect",
-		"ladybird-git"
+		"ladybird-git",
+		"7zip"
 ]
 aur = [
 		"vicinae-bin",
