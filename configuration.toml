@@ -126,7 +126,8 @@ pacman = [
 		"ladybird-git",
 		"7zip",
 		"wine",
-		"winetricks"
+		"winetricks",
+		"gdisk"
 ]
 aur = [
 		"vicinae-bin",
