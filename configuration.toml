@@ -129,7 +129,7 @@ pacman = [
 		"winetricks",
 		"gdisk",
 		"gparted",
-		"gnome-disks"
+		"partitionmanager"
 ]
 aur = [
 		"vicinae-bin",
