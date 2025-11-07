@@ -45,7 +45,7 @@ flatpak = [
 		"com.belmoussaoui.Authenticator",
 		"com.mardojai.ForgeSparks",
 		"com.modrinth.ModrinthApp",
-		"craftos-pc-accelerated-bin"
+		"cc.craftos_pc.CraftOS-PC "
 
 ]
 pacman = [
