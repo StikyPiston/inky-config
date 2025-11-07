@@ -44,7 +44,9 @@ flatpak = [
 		"com.github.tchx84.Flatseal",
 		"com.belmoussaoui.Authenticator",
 		"com.mardojai.ForgeSparks",
-		"com.modrinth.ModrinthApp"
+		"com.modrinth.ModrinthApp",
+		"craftos-pc-accelerated-bin"
+
 ]
 pacman = [
 		"obs-studio", 
@@ -150,5 +152,4 @@ aur = [
 		"gnome-games-meta",
 		"lutgen-bin",
 		"communique",
-		"craftos-pc-accelerated-bin"
 ]
