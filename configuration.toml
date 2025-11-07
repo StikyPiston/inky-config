@@ -124,7 +124,9 @@ pacman = [
 		"ncdu",
 		"kdeconnect",
 		"ladybird-git",
-		"7zip"
+		"7zip",
+		"wine",
+		"winetricks"
 ]
 aur = [
 		"vicinae-bin",
