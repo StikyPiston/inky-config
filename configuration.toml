@@ -127,7 +127,8 @@ pacman = [
 		"7zip",
 		"wine",
 		"winetricks",
-		"gdisk"
+		"gdisk",
+		"gparted"
 ]
 aur = [
 		"vicinae-bin",
