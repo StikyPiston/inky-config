@@ -131,7 +131,8 @@ pacman = [
 		"gparted",
 		"partitionmanager",
 		"dosfstools",
-		"nushell"
+		"nushell",
+		"blesh"
 ]
 aur = [
 		"vicinae-bin",
