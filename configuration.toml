@@ -17,7 +17,8 @@ brew = [
 		"glow",
 		"charmbracelet/tap/freeze",
 		"aerc",
-		"yazi"
+		"yazi",
+		"grex"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
