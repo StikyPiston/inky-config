@@ -19,7 +19,8 @@ brew = [
 		"aerc",
 		"yazi",
 		"grex",
-		"jrnl"
+		"jrnl",
+		"croc"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
