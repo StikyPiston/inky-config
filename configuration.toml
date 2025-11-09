@@ -119,7 +119,6 @@ pacman = [
 		"hyprlock",
 		"hyprpaper",
 		"hyprcursor",
-		"hyprlauncher",
 		"loupe",
 		"ncdu",
 		"kdeconnect",
