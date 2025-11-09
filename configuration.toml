@@ -18,7 +18,8 @@ brew = [
 		"charmbracelet/tap/freeze",
 		"aerc",
 		"yazi",
-		"grex"
+		"grex",
+		"jrnl"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
