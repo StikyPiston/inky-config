@@ -131,7 +131,8 @@ pacman = [
 		"partitionmanager",
 		"dosfstools",
 		"nushell",
-		"blesh"
+		"blesh",
+		"gnome-disk-utility"
 ]
 aur = [
 		"vicinae-bin",
