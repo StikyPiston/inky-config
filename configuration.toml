@@ -135,7 +135,8 @@ pacman = [
 		"dosfstools",
 		"nushell",
 		"blesh",
-		"gnome-disk-utility"
+		"gnome-disk-utility",
+		"anki"
 ]
 aur = [
 		"vicinae-bin",
