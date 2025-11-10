@@ -48,6 +48,7 @@ flatpak = [
 		"com.belmoussaoui.Authenticator",
 		"com.mardojai.ForgeSparks",
 		"com.modrinth.ModrinthApp",
+		"net.ankiweb.Anki"
 ]
 pacman = [
 		"obs-studio", 
