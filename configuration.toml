@@ -136,7 +136,6 @@ pacman = [
 		"nushell",
 		"blesh",
 		"gnome-disk-utility",
-		"anki"
 ]
 aur = [
 		"vicinae-bin",
