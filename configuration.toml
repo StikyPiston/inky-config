@@ -163,5 +163,6 @@ aur = [
 		"gnome-games-meta",
 		"lutgen-bin",
 		"communique",
-		"craftos-pc"
+		"craftos-pc",
+		"dms-shell-bin"
 ]
