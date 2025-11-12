@@ -138,7 +138,8 @@ pacman = [
 		"nushell",
 		"blesh",
 		"gnome-disk-utility",
-		"quickshell"
+		"quickshell",
+		"ttf-jetbrains-mono-nerd"
 ]
 aur = [
 		"vicinae-bin",
