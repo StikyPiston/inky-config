@@ -138,6 +138,7 @@ pacman = [
 		"nushell",
 		"blesh",
 		"gnome-disk-utility",
+		"quickshell"
 ]
 aur = [
 		"vicinae-bin",
