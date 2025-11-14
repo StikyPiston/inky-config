@@ -142,7 +142,8 @@ pacman = [
 		"quickshell",
 		"ttf-jetbrains-mono-nerd",
 		"starship",
-		"ly"
+		"ly",
+		"lxappearance-gtk3"
 ]
 aur = [
 		"vicinae-bin",
