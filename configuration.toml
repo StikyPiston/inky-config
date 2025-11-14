@@ -140,7 +140,9 @@ pacman = [
 		"blesh",
 		"gnome-disk-utility",
 		"quickshell",
-		"ttf-jetbrains-mono-nerd"
+		"ttf-jetbrains-mono-nerd",
+		"starship",
+		"ly"
 ]
 aur = [
 		"vicinae-bin",
