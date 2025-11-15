@@ -147,7 +147,8 @@ pacman = [
 		"rmpc",
 		"mpd",
 		"ncmpcpp",
-		"mpd-mpris"
+		"mpd-mpris",
+		"dracut"
 ]
 aur = [
 		"vicinae-bin",
