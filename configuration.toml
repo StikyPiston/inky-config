@@ -175,5 +175,7 @@ aur = [
 		"lutgen-bin",
 		"communique",
 		"craftos-pc",
-		"dms-shell-bin"
+		"dms-shell-bin",
+		"plymouth-theme-hud-3-git",
+		"plymouth-theme-spinner-alt-git"
 ]
