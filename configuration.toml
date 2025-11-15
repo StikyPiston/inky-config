@@ -149,7 +149,8 @@ pacman = [
 		"ncmpcpp",
 		"mpd-mpris",
 		"dracut",
-		"btop"
+		"btop",
+		"tree"
 ]
 aur = [
 		"vicinae-bin",
