@@ -150,7 +150,8 @@ pacman = [
 		"mpd-mpris",
 		"dracut",
 		"btop",
-		"tree"
+		"tree",
+		"vlc-plugin-ffmpeg"
 ]
 aur = [
 		"vicinae-bin",
