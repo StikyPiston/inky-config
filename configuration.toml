@@ -146,7 +146,8 @@ pacman = [
 		"lxappearance",
 		"rmpc",
 		"mpd",
-		"ncmpcpp"
+		"ncmpcpp",
+		"mpd-mpris"
 ]
 aur = [
 		"vicinae-bin",
