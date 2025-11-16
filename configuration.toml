@@ -180,5 +180,6 @@ aur = [
 		"craftos-pc",
 		"dms-shell-bin",
 		"plymouth-theme-hud-3-git",
-		"plymouth-theme-spinner-alt-git"
+		"plymouth-theme-spinner-alt-git",
+		"songfetch"
 ]
