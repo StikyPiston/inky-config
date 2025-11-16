@@ -181,5 +181,6 @@ aur = [
 		"dms-shell-bin",
 		"plymouth-theme-hud-3-git",
 		"plymouth-theme-spinner-alt-git",
-		"songfetch"
+		"songfetch",
+		"alertify"
 ]
