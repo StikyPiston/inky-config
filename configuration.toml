@@ -151,7 +151,8 @@ pacman = [
 		"dracut",
 		"btop",
 		"tree",
-		"vlc-plugin-ffmpeg"
+		"vlc-plugin-ffmpeg",
+		"hyprpicker"
 ]
 aur = [
 		"vicinae-bin",
