@@ -185,5 +185,6 @@ aur = [
 		"plymouth-theme-spinner-alt-git",
 		"songfetch",
 		"alertify",
-		"blesh"
+		"blesh",
+		"localsend"
 ]
