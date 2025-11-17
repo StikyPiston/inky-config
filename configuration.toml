@@ -138,7 +138,6 @@ pacman = [
 		"partitionmanager",
 		"dosfstools",
 		"nushell",
-		"blesh",
 		"gnome-disk-utility",
 		"quickshell",
 		"ttf-jetbrains-mono-nerd",
@@ -184,5 +183,6 @@ aur = [
 		"plymouth-theme-hud-3-git",
 		"plymouth-theme-spinner-alt-git",
 		"songfetch",
-		"alertify"
+		"alertify",
+		"blesh"
 ]
