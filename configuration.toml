@@ -52,7 +52,8 @@ flatpak = [
 		"com.modrinth.ModrinthApp",
 		"net.ankiweb.Anki",
 		"menu.kando.Kando",
-		"org.fedoraproject.MediaWriter"
+		"org.fedoraproject.MediaWriter",
+		"org.localsend.localsend_app"
 ]
 pacman = [
 		"obs-studio", 
@@ -186,5 +187,4 @@ aur = [
 		"songfetch",
 		"alertify",
 		"blesh",
-		"localsend"
 ]
