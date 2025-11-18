@@ -22,7 +22,9 @@ brew = [
 		"jrnl",
 		"croc",
 		"redcards",
-		"sysbench"
+		"sysbench",
+		"pkl",
+		"swift"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
