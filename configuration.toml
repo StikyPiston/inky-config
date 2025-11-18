@@ -24,7 +24,8 @@ brew = [
 		"redcards",
 		"sysbench",
 		"pkl",
-		"swift"
+		"swift",
+		"pkl-lsp"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
