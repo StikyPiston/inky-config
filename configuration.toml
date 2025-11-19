@@ -25,7 +25,8 @@ brew = [
 		"sysbench",
 		"pkl",
 		"swift",
-		"pkl-lsp"
+		"pkl-lsp",
+		"gh"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
