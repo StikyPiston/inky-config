@@ -26,7 +26,8 @@ brew = [
 		"pkl",
 		"swift",
 		"pkl-lsp",
-		"gh"
+		"gh",
+		"dotkeeper"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
