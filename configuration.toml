@@ -60,7 +60,8 @@ flatpak = [
 		"net.ankiweb.Anki",
 		"menu.kando.Kando",
 		"org.fedoraproject.MediaWriter",
-		"org.localsend.localsend_app"
+		"org.localsend.localsend_app",
+		"io.github.giantpinkrobots.varia"
 ]
 pacman = [
 		"obs-studio", 
