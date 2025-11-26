@@ -195,4 +195,5 @@ aur = [
 		"songfetch",
 		"alertify",
 		"blesh",
+		"quickemu"
 ]
