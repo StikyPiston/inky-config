@@ -164,7 +164,8 @@ pacman = [
 		"tree",
 		"vlc-plugin-ffmpeg",
 		"hyprpicker",
-		"gnome-boxes"
+		"gnome-boxes",
+		"edk2-ovmf"
 ]
 aur = [
 		"vicinae-bin",
