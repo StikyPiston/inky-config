@@ -29,7 +29,8 @@ brew = [
 		"gh",
 		"dotkeeper",
 		"tlrc",
-		"delta"
+		"delta",
+		"lazygit"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
