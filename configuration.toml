@@ -30,7 +30,8 @@ brew = [
 		"dotkeeper",
 		"tlrc",
 		"delta",
-		"lazygit"
+		"lazygit",
+		"stan-breaks/ytsurf/ytsurf"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
