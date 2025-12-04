@@ -33,7 +33,9 @@ brew = [
 		"lazygit",
 		"stan-breaks/ytsurf/ytsurf",
 		"stikypiston/formulae/dotkeeper-tui",
-		"tree-stitter"
+		"tree-sitter",
+		"luarocks",
+		"npm"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
