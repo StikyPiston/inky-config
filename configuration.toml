@@ -32,7 +32,8 @@ brew = [
 		"delta",
 		"lazygit",
 		"stan-breaks/ytsurf/ytsurf",
-		"stikypiston/formulae/dotkeeper-tui"
+		"stikypiston/formulae/dotkeeper-tui",
+		"tree-stitter"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
