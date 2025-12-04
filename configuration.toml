@@ -33,7 +33,6 @@ brew = [
 		"lazygit",
 		"stan-breaks/ytsurf/ytsurf",
 		"stikypiston/formulae/dotkeeper-tui",
-		"tree-sitter",
 		"luarocks",
 		"npm"
 ]
@@ -170,7 +169,9 @@ pacman = [
 		"vlc-plugin-ffmpeg",
 		"hyprpicker",
 		"gnome-boxes",
-		"edk2-ovmf"
+		"edk2-ovmf",
+		"tree-sitter",
+		"tree-sitter-cli"
 ]
 aur = [
 		"vicinae-bin",
