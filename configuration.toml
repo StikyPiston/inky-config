@@ -35,7 +35,8 @@ brew = [
 		"stikypiston/formulae/dotkeeper-tui",
 		"luarocks",
 		"npm",
-		"ripgrep"
+		"ripgrep",
+		"timewarrior"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
