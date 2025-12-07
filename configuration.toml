@@ -36,7 +36,8 @@ brew = [
 		"luarocks",
 		"npm",
 		"ripgrep",
-		"timewarrior"
+		"timewarrior",
+		"helix"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
