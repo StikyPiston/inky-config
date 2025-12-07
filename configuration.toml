@@ -176,7 +176,8 @@ pacman = [
 		"tree-sitter",
 		"tree-sitter-cli",
 		"ruby-lsp",
-		"lua-language-server"
+		"lua-language-server",
+		"fish"
 ]
 aur = [
 		"vicinae-bin",
