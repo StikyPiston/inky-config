@@ -173,7 +173,9 @@ pacman = [
 		"gnome-boxes",
 		"edk2-ovmf",
 		"tree-sitter",
-		"tree-sitter-cli"
+		"tree-sitter-cli",
+		"ruby-lsp",
+		"lua-language-server"
 ]
 aur = [
 		"vicinae-bin",
@@ -206,5 +208,6 @@ aur = [
 		"songfetch",
 		"alertify",
 		"blesh",
-		"quickemu"
+		"quickemu",
+		"swiftlint",
 ]
