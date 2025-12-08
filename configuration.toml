@@ -37,7 +37,8 @@ brew = [
 		"npm",
 		"ripgrep",
 		"timewarrior",
-		"helix"
+		"helix",
+		"git-lfs"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
