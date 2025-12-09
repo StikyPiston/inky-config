@@ -179,7 +179,6 @@ pacman = [
 		"ruby-lsp",
 		"lua-language-server",
 		"fish",
-		"woeusb-ng"
 ]
 aur = [
 		"vicinae-bin",
