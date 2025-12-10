@@ -180,7 +180,8 @@ pacman = [
 		"ruby-lsp",
 		"lua-language-server",
 		"fish",
-		"ueberzugpp"
+		"ueberzugpp",
+		"blender"
 ]
 aur = [
 		"vicinae-bin",
