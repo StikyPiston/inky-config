@@ -40,7 +40,8 @@ brew = [
 		"helix",
 		"git-lfs",
 		"utftex",
-		"ncdu"
+		"ncdu",
+		"stikypiston/formulae/chess-tui"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
