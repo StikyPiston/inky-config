@@ -181,7 +181,8 @@ pacman = [
 		"lua-language-server",
 		"fish",
 		"ueberzugpp",
-		"blender"
+		"blender",
+		"uxplay"
 ]
 aur = [
 		"vicinae-bin",
