@@ -39,7 +39,8 @@ brew = [
 		"timewarrior",
 		"helix",
 		"git-lfs",
-		"utftex"
+		"utftex",
+		"ncdu"
 ]
 flatpak = [
 		"org.prismlauncher.PrismLauncher", 
@@ -147,7 +148,6 @@ pacman = [
 		"hyprpaper",
 		"hyprcursor",
 		"loupe",
-		"ncdu",
 		"kdeconnect",
 		"ladybird-git",
 		"7zip",
