@@ -184,7 +184,8 @@ pacman = [
 	"fish",
 	"ueberzugpp",
 	"blender",
-	"uxplay"
+	"uxplay",
+	"zsh"
 ]
 aur = [
 	"vicinae-bin",
