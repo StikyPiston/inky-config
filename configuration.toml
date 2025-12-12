@@ -185,7 +185,8 @@ pacman = [
 	"ueberzugpp",
 	"blender",
 	"uxplay",
-	"zsh"
+	"zsh",
+	"zsh-autocomplete"
 ]
 aur = [
 	"vicinae-bin",
