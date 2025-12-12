@@ -219,4 +219,5 @@ aur = [
 	"alertify",
 	"blesh",
 	"quickemu",
+	"zsh-fast-syntax-highlighting"
 ]
