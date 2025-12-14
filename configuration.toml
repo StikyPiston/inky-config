@@ -42,7 +42,8 @@ brew = [
 	"utftex",
 	"ncdu",
 	"stikypiston/formulae/chess-tui",
-	"stockfish"
+	"stockfish",
+	"yarn"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
