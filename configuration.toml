@@ -45,7 +45,9 @@ brew = [
 	"stockfish",
 	"yarn",
 	"w3m",
-	"amfora"
+	"amfora",
+	"gleam",
+	"erlang"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
