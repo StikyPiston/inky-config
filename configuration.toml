@@ -193,7 +193,14 @@ pacman = [
 	"uxplay",
 	"zsh",
 	"zsh-autosuggestions",
-	"imagemagick"
+	"imagemagick",
+	"solvespace",
+	"zathura",
+	"zathura-cb",
+	"zathura-djvu",
+	"zathura-pdf-mupdf",
+	"zathura-pdf-poppler",
+	"zathura-ps"
 ]
 aur = [
 	"vicinae-bin",
