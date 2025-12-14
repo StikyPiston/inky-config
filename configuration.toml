@@ -225,7 +225,4 @@ aur = [
 	"blesh",
 	"quickemu",
 	"zsh-fast-syntax-highlighting",
-	"countryfetch",
-	"gitfetch",
-	"stormy"
 ]
