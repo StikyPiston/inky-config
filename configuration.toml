@@ -44,7 +44,8 @@ brew = [
 	"stikypiston/formulae/chess-tui",
 	"stockfish",
 	"yarn",
-	"w3m"
+	"w3m",
+	"amfora"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
