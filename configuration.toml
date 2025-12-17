@@ -201,7 +201,7 @@ pacman = [
 ]
 aur = [
 	"vicinae-bin",
-	"neovim-nightly-bin",
+	"neovim-nightly",
 	"blockbench-bin",
 	"waydroid",
 	"lf-git",
