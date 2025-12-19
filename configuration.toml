@@ -231,4 +231,5 @@ aur = [
 	"blesh",
 	"quickemu",
 	"zsh-fast-syntax-highlighting",
+	"folder-color-nemo"
 ]
