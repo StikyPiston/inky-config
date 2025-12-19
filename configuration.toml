@@ -191,7 +191,6 @@ pacman = [
 	"blender",
 	"uxplay",
 	"zsh",
-	"zsh-autosuggestions",
 	"imagemagick",
 	"solvespace",
 	"zathura",
@@ -230,6 +229,5 @@ aur = [
 	"alertify",
 	"blesh",
 	"quickemu",
-	"zsh-fast-syntax-highlighting",
 	"folder-color-nemo"
 ]
