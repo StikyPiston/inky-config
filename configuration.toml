@@ -48,7 +48,8 @@ brew = [
 	"amfora",
 	"gleam",
 	"erlang",
-	"stikypiston/formulae/recall"
+	"stikypiston/formulae/recall",
+	"zinit"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
