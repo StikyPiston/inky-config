@@ -198,7 +198,6 @@ pacman = [
 	"zathura-djvu",
 	"zathura-pdf-mupdf",
 	"zathura-ps",
-	"dmg2img"
 ]
 aur = [
 	"vicinae-bin",
@@ -230,5 +229,6 @@ aur = [
 	"alertify",
 	"blesh",
 	"quickemu",
-	"folder-color-nemo"
+	"folder-color-nemo",
+	"dmg2img"
 ]
