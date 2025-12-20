@@ -197,7 +197,8 @@ pacman = [
 	"zathura-cb",
 	"zathura-djvu",
 	"zathura-pdf-mupdf",
-	"zathura-ps"
+	"zathura-ps",
+	"dmg2img"
 ]
 aur = [
 	"vicinae-bin",
