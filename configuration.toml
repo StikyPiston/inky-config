@@ -198,7 +198,6 @@ pacman = [
 	"zathura-djvu",
 	"zathura-pdf-mupdf",
 	"zathura-ps",
-	"lemurs"
 ]
 aur = [
 	"vicinae-bin",
