@@ -199,7 +199,8 @@ pacman = [
 	"zathura-djvu",
 	"zathura-pdf-mupdf",
 	"zathura-ps",
-	"xdg-desktop-portal-gnome"
+	"xdg-desktop-portal-gnome",
+	"xwayland-satellite"
 ]
 aur = [
 	"vicinae-bin",
