@@ -50,7 +50,8 @@ brew = [
 	"erlang",
 	"stikypiston/formulae/recall",
 	"zinit",
-	"bob"
+	"bob",
+	"stikypiston/formulae/fastcards"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
