@@ -233,5 +233,6 @@ aur = [
 	"blesh",
 	"quickemu",
 	"folder-color-nemo",
-	"dmg2img"
+	"dmg2img",
+	"sticky-notes"
 ]
