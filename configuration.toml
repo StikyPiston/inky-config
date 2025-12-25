@@ -52,7 +52,8 @@ brew = [
 	"zinit",
 	"bob",
 	"stikypiston/formulae/fastcards",
-	"asciinema"
+	"asciinema",
+	"stikypiston/formulae/pricetag"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
