@@ -236,6 +236,6 @@ aur = [
 	"quickemu",
 	"folder-color-nemo",
 	"dmg2img",
-	"stickee",
+	"indicator-stickynotes",
 	"catppuccin-cursors-mocha"
 ]
