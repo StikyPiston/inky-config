@@ -3,12 +3,12 @@ appimage = [
 	"https://github.com/ppy/osu/releases/latest/download/osu.appimage"
 ]
 brew = [
-	"rancher",
-	"constitution",
+	"stikypiston/formulae/rancher",
+	"stikypiston/formulae/constitution",
 	"soft-serve",
 	"gum",
-	"hocusfocus",
-	"evoke",
+	"stikypiston/formulae/hocusfocus",
+	"stikypiston/formulae/evoke",
 	"zoxide",
 	"viu",
 	"feh",
@@ -21,13 +21,13 @@ brew = [
 	"grex",
 	"jrnl",
 	"croc",
-	"redcards",
+	"stikypiston/formulae/redcards",
 	"sysbench",
 	"pkl",
 	"swift",
 	"pkl-lsp",
 	"gh",
-	"dotkeeper",
+	"stikypiston/formulae/dotkeeper",
 	"tlrc",
 	"delta",
 	"lazygit",
@@ -53,7 +53,8 @@ brew = [
 	"bob",
 	"stikypiston/formulae/fastcards",
 	"asciinema",
-	"stikypiston/formulae/pricetag"
+	"stikypiston/formulae/pricetag",
+	"fd"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
