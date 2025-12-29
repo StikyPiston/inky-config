@@ -204,7 +204,11 @@ pacman = [
 	"zathura-pdf-mupdf",
 	"zathura-ps",
 	"xdg-desktop-portal-gnome",
-	"xwayland-satellite"
+	"xwayland-satellite",
+	"vulkan-intel",
+	"lib32-vulkan-intel",
+	"vulkan-icd-loader",
+	"vulkan-tools",
 ]
 aur = [
 	"vicinae-bin",
