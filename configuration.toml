@@ -85,7 +85,9 @@ flatpak = [
 	"org.fedoraproject.MediaWriter",
 	"org.localsend.localsend_app",
 	"io.github.giantpinkrobots.varia",
-	"org.freedesktop.Platform.VulkanLayer.MangoHud//24.08"
+	"org.freedesktop.Platform.VulkanLayer.MangoHud//24.08",
+	"org.vinegarhq.Vinegar",
+	"org.vinegarhq.Sober"
 ]
 pacman = [
 	"obs-studio", 
