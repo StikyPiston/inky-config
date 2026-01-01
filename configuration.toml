@@ -87,7 +87,8 @@ flatpak = [
 	"io.github.giantpinkrobots.varia",
 	"org.freedesktop.Platform.VulkanLayer.MangoHud//24.08",
 	"org.vinegarhq.Vinegar",
-	"org.vinegarhq.Sober"
+	"org.vinegarhq.Sober",
+	"org.winehq.Wine"
 ]
 pacman = [
 	"obs-studio", 
