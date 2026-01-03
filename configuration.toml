@@ -247,5 +247,6 @@ aur = [
 	"folder-color-nemo",
 	"dmg2img",
 	"indicator-stickynotes",
-	"catppuccin-cursors-mocha"
+	"catppuccin-cursors-mocha",
+	"awww-git"
 ]
