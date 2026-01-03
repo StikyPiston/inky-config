@@ -214,7 +214,8 @@ pacman = [
 	"vulkan-icd-loader",
 	"vulkan-tools",
 	"lib32-mesa",
-	"lib32-vulkan-icd-loader"
+	"lib32-vulkan-icd-loader",
+	"avahi"
 ]
 aur = [
 	"vicinae-bin",
