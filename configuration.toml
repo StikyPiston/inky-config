@@ -57,7 +57,8 @@ brew = [
 	"fd",
 	"stikypiston/formulae/bobafm",
 	"dart-sdk",
-	"stikypiston/formulae/decree"
+	"stikypiston/formulae/decree",
+	"superfile"
 ]
 flatpak = [
 	"org.prismlauncher.PrismLauncher", 
