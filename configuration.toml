@@ -220,7 +220,8 @@ pacman = [
 	"avahi",
 	"samba",
 	"smbclient",
-	"gvfs-smb"
+	"gvfs-smb",
+	"gnome-calendar"
 ]
 aur = [
 	"vicinae-bin",
