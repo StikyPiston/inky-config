@@ -92,7 +92,8 @@ flatpak = [
 	"org.freedesktop.Platform.VulkanLayer.MangoHud//24.08",
 	"org.vinegarhq.Vinegar",
 	"org.vinegarhq.Sober",
-	"org.winehq.Wine"
+	"org.winehq.Wine",
+	"dev.edfloreshz.CosmicTweaks"
 ]
 pacman = [
 	"obs-studio", 
