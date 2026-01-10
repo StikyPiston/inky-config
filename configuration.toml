@@ -221,7 +221,8 @@ pacman = [
 	"samba",
 	"smbclient",
 	"gvfs-smb",
-	"gnome-calendar"
+	"gnome-calendar",
+	"cosmic"
 ]
 aur = [
 	"vicinae-bin",
