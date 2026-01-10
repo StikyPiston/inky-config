@@ -222,7 +222,8 @@ pacman = [
 	"smbclient",
 	"gvfs-smb",
 	"gnome-calendar",
-	"cosmic"
+	"cosmic",
+	"power-profiles-daemon"
 ]
 aur = [
 	"vicinae-bin",
